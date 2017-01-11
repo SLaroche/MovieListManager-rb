@@ -1,0 +1,11 @@
+Created by Satish
+Thank God!
+Created by Satish
+Thank God!
+
+for c in char
+  if c == '-'
+  string += c
+end
+puts string
+#puts string[0...-1]
